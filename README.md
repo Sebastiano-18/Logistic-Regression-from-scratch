@@ -41,9 +41,21 @@ cd src
 ```python
 python LogisticRegressionFromScratch.py
 ```
+--- 
+
 ## EXAMPLE OUTPUT
 ```yaml
 Logistic Regression Accuracy: 0.83
 ```
+---
+## 📖 Learning Objectives
 
+- Understand how logistic regression works internally.
 
+- Learn how to implement sigmoid function, loss function, and gradient descent manually.
+
+- Gain intuition behind classification models
+
+## 📜 License
+
+This project is licensed under the MIT License.
