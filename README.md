@@ -61,3 +61,10 @@ Logistic Regression Accuracy: 0.83
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+---
+
+
+## 👤 AUTHOR
+Sebastiano – Undergraduate in Information and Automation Engineering
+Specialization in Artificial Intelligence & Databases
