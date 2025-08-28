@@ -26,4 +26,24 @@ logistic-regression-from-scratch/
 ## 🧑‍💻 How to Run
 1. Clone this repository:
 ```bash
-git clone 
+git clone https://github.com/Sebastiano-18/Logistic-Regression-from-scratch.git
+cd LogisticRegression-from-scratch
+```
+2. Install dependencies
+```python
+pip install numpy scikit-learn
+```
+3. Navigate to the src folder 
+```bash
+cd src
+```
+4. Run the model
+```python
+python LogisticRegressionFromScratch.py
+```
+## EXAMPLE OUTPUT
+```yaml
+Logistic Regression Accuracy: 0.83
+```
+
+
