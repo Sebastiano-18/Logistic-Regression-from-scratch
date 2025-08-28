@@ -1,0 +1,9 @@
+# Virtual Enviroment
+.venv/
+# Python cache files
+__pycache__/
+*.py[cod]
+# OS-specific file
+Thumbs.db
+# Logs
+*.log
