@@ -1,4 +1,4 @@
-# Logistic Regression from scratch
+# Logistic Regression From Scratch
 ## PROJECT OVERVIEW
 This project implements Logistic Regression from scratch using NumPy (without scikit-learn’s built-in model).
 It demonstrates how logistic regression works under the hood with gradient descent, sigmoid function, and binary cross-entropy loss.
@@ -13,6 +13,8 @@ logistic-regression-from-scratch/
 │──requirements.txt
 │──LICENSE
 
+---
+
 ## ⚙️ Features
 
 - Implements logistic regression without external ML libraries.
@@ -22,7 +24,7 @@ logistic-regression-from-scratch/
 - Works for binary classification tasks.
 
 - Includes example with a synthetic dataset (using sklearn.datasets.make_classification).
-
+---
 ## 🧑‍💻 How to Run
 1. Clone this repository:
 ```bash
@@ -55,7 +57,7 @@ Logistic Regression Accuracy: 0.83
 - Learn how to implement sigmoid function, loss function, and gradient descent manually.
 
 - Gain intuition behind classification models
-
+---
 ## 📜 License
 
 This project is licensed under the MIT License.
